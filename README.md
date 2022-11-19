@@ -2,5 +2,5 @@
 
 ## Files
 
-- Data: data.xscl
+- Data: data.xlsx
 - Report: paper.pdf
